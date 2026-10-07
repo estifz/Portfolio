@@ -90,7 +90,7 @@ export function Projects() {
         ))}
       </div>
       <a
-        href="https://github.com/Kingestif"
+        href="https://github.com/estifz"
         target="_blank"
         rel="noopener noreferrer"
         className="group flex gap-2 bg-yellow-500/ rounded-full py-2 px-3 "
